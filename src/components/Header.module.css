@@ -1,0 +1,10 @@
+.header {
+    grid-area: h;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+}
+.header img {
+    width: 70px;
+    height: auto;
+}
